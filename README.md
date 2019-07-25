@@ -5,6 +5,8 @@
 ### Przygotowanie
 Dokładnie wykonaj następujące kroki, aby mieć pewność, że w dniu warsztatów wszystko będzie działać tak, jak należy :)
 
+**Jeśli masz jakikolwiek problem** — skontaktuj się z nami :) Wyślij maila, otwórz issue na GitHubie, napisz na messengerze, wrzuć post pod wydarzeniem… Jak tylko Ci pasuje :) Pomożemy!
+
 
 #### Wstęp
 Zainstaluj:
