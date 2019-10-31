@@ -1,31 +1,19 @@
-# Warsztaty z ReasonML
-## Type of Web Szkolenia https://typeofweb.com/szkolenia/
+# ReasonML workshop
 
 
-### Przygotowanie
-Dokładnie wykonaj następujące kroki, aby mieć pewność, że w dniu warsztatów wszystko będzie działać tak, jak należy :)
+## Introduction
+Follow the description below to make sure everything works as expected on Friday!
 
-**Jeśli masz jakikolwiek problem** — skontaktuj się z nami :) Wyślij maila, otwórz issue na GitHubie, napisz na messengerze, wrzuć post pod wydarzeniem… Jak tylko Ci pasuje :) Pomożemy!
+If you have any questions, DM me on Twitter @mmiszy
 
+### Prerequisites
+Install:
 
-#### Wstęp
-Zainstaluj:
+- `yarn` — at least 1.15
+- `node` — at least 10.13
 
-- `yarn` — przynajmniej w wersji 1.15
-- `node` — przynajmniej w wersji 10.13
-
-#### Część 1: Reason
-1. Wejdź do folderu `native`
-2. Uruchom `yarn install`. To może zająć chwilę.
-3. Uruchom `yarn build`. To polecenie powinno zakończyć się napisem "✨ Done"
-4. Uruchom `yarn start` i otwórz http://localhost:8080/. Jeśli zobaczysz zielony kwadrat w przeglądarce, to wszystko jest OK i możesz przejść dalej.
-
-#### Część 2: Reason React
-1. Wejdź do folderu `react`
-2. Uruchom `yarn install`. To może zająć chwilę.
-3. Uruchom `yarn build`. To polecenie powinno zakończyć się napisem "✨ Done"
-4. Uruchom `yarn start` i otwórz http://localhost:8000/. Jeśli zobaczysz napis "Hello, world!" w przeglądarce, to wszystko jest OK i możesz przejść dalej.
-
-### Organizator
-**Type of Web Szkolenia** — prowadzimy intensywne szkolenia i warsztaty w całej Polsce. Frontend i backend, między innymi React, Vue, Angular, Nodejs oraz TypeScript. Stawiamy przede wszystkim na praktykę, a każde szkolenie to budowanie z życia wziętej aplikacji. Oferujemy szkolenia otwarte oraz zamknięte dla firm z indywidualnym programem. https://typeofweb.com/szkolenia/
-
+### Reason
+1. `cd native`
+2. Run `yarn install`. It could take a while.
+3. Run `yarn build`. It should display "✨ Done" at the end.
+4. Run `yarn start` and open http://localhost:8080/. If you see a green square in your browser, eveverything is fine and you can proceed.
